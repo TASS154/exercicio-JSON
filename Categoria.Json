@@ -1,0 +1,38 @@
+[
+
+    {
+        "Unidade": "01",
+        "Local": "354 Rua das Camélias, Campinas, SP, 13024-410",
+        "Horário funcionamento": "08:00-22:00",
+        "gerente": "Júlia da Dores"
+    },
+
+    {
+        "Unidade": "02",
+        "Local": "1287 Avenida Brasil, São José dos Campos, SP, 12234-000",
+        "Horário funcionamento": "08:00-22:00",
+        "gerente": "Jonnathan Pires"
+    },
+
+    {
+        "Unidade": "03",
+        "Local": "768 Rua dos Jacarandás, Sorocaba, SP, 18043-355",
+        "Horário funcionamento": "09:30-22:00",
+        "gerente": "Pedro Silva"
+    },
+
+    {
+        "Unidade": "04",
+        "Local": "492 Alameda das Rosas, Santos, SP, 11025-153",
+        "Horário funcionamento": "08:00-23:00",
+        "gerente": "Nathalia Schneider"
+    },
+
+    {
+        "Unidade": "05",
+        "Local": "215 Travessa dos Flamboyants, Ribeirão Preto, SP, 14020-280",
+        "Horário funcionamento": "08:00-22:00",
+        "gerente": "Lucca Carvalho"
+    }
+
+]

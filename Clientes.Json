@@ -1,0 +1,45 @@
+[
+
+    {
+        "nome": "Maria de Paula",
+        "ID": "1",
+        "Ultimo login": "05/01/24",
+        "Usuário premium?": "não"
+    },
+
+    {
+        "nome": "Lucas Ferreira",
+        "ID": "2",
+        "Ultimo login": "22/02/24",
+        "Usuário premium?": "sim"
+    },
+
+    {
+        "nome": "Carlos Henrique",
+        "ID": "3",
+        "Ultimo login": "17/12/23",
+        "Usuário premium?": "não"
+    },
+
+    {
+        "nome": "Ana Carolina",
+        "ID": "4",
+        "Ultimo login": "07/02/24",
+        "Usuário premium?": "não"
+    },
+
+    {
+        "nome": "Rafael Martins",
+        "ID": "5",
+        "Ultimo login": "27/02/24",
+        "Usuário premium?": "sim"
+    },
+
+    {
+        "nome": "Maria Silva",
+        "ID": "6",
+        "Ultimo login": "03/06/23",
+        "Usuário premium?": "não"
+    }
+
+]

@@ -1,0 +1,52 @@
+[
+
+    {
+        "Produto": "Leite",
+        "Código": "001",
+        "Validade": "15/03/24",
+        "Quantidade em estoque": "53"
+    },
+
+    {
+        "nome": "Ovos",
+        "código": "002",
+        "Validade": "22/04/24",
+        "Quantidade em estoque": "4 cartelas 12UN, 5 cartelas 20UN"
+    },
+
+    {
+        "nome": "Farinha de trigo",
+        "código": "003",
+        "Validade": "08/05/24",
+        "Quantidade em estoque": "23"
+    },
+
+    {
+        "nome": "salgadinho",
+        "código": "004",
+        "Validade": "17/04/24",
+        "Quantidade em estoque": "16"
+    },
+
+    {
+        "nome": "maçãs",
+        "código": "005",
+        "Validade": "29/05/24",
+        "Quantidade em estoque": "12 (pacotes com 10UN)"
+    },
+
+    {
+        "nome": "Barras de chocolate",
+        "código": "006",
+        "Validade": "15/09/24",
+        "Quantidade em estoque": " 7 pretas, 5 brancas, 11 meio amargas"
+    },
+
+    {
+        "nome": "balas",
+        "código": "007",
+        "Validade": "23/10/24",
+        "Quantidade em estoque": "34 (pacotes com 25UN)"
+    }
+
+]
